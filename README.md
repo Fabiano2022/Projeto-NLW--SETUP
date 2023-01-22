@@ -25,9 +25,8 @@ Projeto realizado em parceria com o curso Rocketseat.
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
--JavaScript
-- Git, GistGithub e Github
+- HTML ,CSS e JavaScript
+- Git e Github
 - Figma
 
 
