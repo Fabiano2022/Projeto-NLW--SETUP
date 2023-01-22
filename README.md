@@ -34,6 +34,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Nesse desafio, proposto pela equipe da Rocketseat, fizemos o projeto Habits Tracker onde desenvolvemos um app para usar como assistente de controle de hábitos. 
 
+- [Visite o projeto online] (https://fabiano2022.github.io/Projeto-NLW-SETUP/) 
+
 
 ## 🔖 Layout
 
