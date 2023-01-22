@@ -32,8 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Nesse desafio, proposto pela equipe da Rocketseat, fizemos o projeto Habits Tracker onde desenvolvemos um app para usar como assistente de controle de hábitos. Começamos esse projeto do zero utilizando layout do Figma. Utilizamos diversos conceitos para conclusão do projeto.
-
+Nesse desafio, proposto pela equipe da Rocketseat, fizemos o projeto Habits Tracker onde desenvolvemos um app para usar como assistente de controle de hábitos. 
 
 
 ## 🔖 Layout
